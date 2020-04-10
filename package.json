@@ -1,0 +1,28 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API_get.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjwow88/REST-API_TDD_Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjwow88/REST-API_TDD_Study/issues"
+  },
+  "homepage": "https://github.com/sjwow88/REST-API_TDD_Study#readme"
+}
